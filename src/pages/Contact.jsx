@@ -34,10 +34,10 @@ const Contact = () => {
       <div className="p-6 font-sans max-w-md mx-auto">
       
         <h2 className="text-2xl font-semibold mb-4">Contact Information</h2>
-        <p><strong>Name:</strong> MANOJ S</p>
+        <p><strong>Name:</strong> Jackson J</p>
         <p><strong>Role:</strong> Full Stack Developer</p>
         <p><strong>Email:</strong>
-          <a href="mailto:manojsaravanan2806@gmail.com">manojsaravanan2806@gmail.com</a>
+          <a href="mailto:havocjack2942002@gmail.com">havocjack2942002@gmail.com</a>
         </p>
       </div>
 
